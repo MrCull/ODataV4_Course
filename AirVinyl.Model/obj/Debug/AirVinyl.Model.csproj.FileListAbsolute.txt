@@ -1,0 +1,11 @@
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.Model\bin\Debug\AirVinyl.Model.dll.config
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.Model\bin\Debug\AirVinyl.Model.dll
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.Model\bin\Debug\AirVinyl.Model.pdb
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.Model\bin\Debug\EntityFramework.dll
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.Model\bin\Debug\EntityFramework.xml
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.Model\obj\Debug\AirVinyl.Model.csproj.CoreCompileInputs.cache
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.Model\obj\Debug\AirVinyl.Model.csproj.CopyComplete
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.Model\obj\Debug\AirVinyl.Model.dll
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.Model\obj\Debug\AirVinyl.Model.pdb

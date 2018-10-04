@@ -1,0 +1,15 @@
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.DataAccessLayer\bin\Debug\AirVinyl.DataAccessLayer.dll.config
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.DataAccessLayer\bin\Debug\AirVinyl.DataAccessLayer.dll
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.DataAccessLayer\bin\Debug\AirVinyl.DataAccessLayer.pdb
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.DataAccessLayer\bin\Debug\AirVinyl.Model.dll
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.DataAccessLayer\bin\Debug\AirVinyl.Model.pdb
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.DataAccessLayer\bin\Debug\AirVinyl.Model.dll.config
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.DataAccessLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.DataAccessLayer\obj\Debug\AirVinyl.DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.DataAccessLayer\obj\Debug\AirVinyl.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.DataAccessLayer\obj\Debug\AirVinyl.DataAccessLayer.csproj.CopyComplete
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.DataAccessLayer\obj\Debug\AirVinyl.DataAccessLayer.dll
+C:\Users\culll\OneDrive\Documents\GitHub\ODataV4_Course\AirVinyl.DataAccessLayer\obj\Debug\AirVinyl.DataAccessLayer.pdb
